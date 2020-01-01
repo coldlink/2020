@@ -1,4 +1,4 @@
-# 2020 Backlog/Playing/Completed BOOK List
+# 2020 Backlog/Reading/Completed Book List
 
 | Count | Name  | Authour | Start | Complete | Rating | Notes |
 | - | - | - | - | - | - | - |
