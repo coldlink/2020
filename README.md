@@ -2,3 +2,4 @@
 keeping track 2020
 
 [games](./GAMES.md)
+[books](./BOOKS.md)
