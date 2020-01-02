@@ -26,3 +26,4 @@
 | 22 | Death Stranding | PS4 | 2019 | - | - | - | - |
 | 23 | AI: The Somnium Files | PC/PS4/NS | - | - | - | - | - |
 | 24 | Astral Chain | NS | - | - | - | - | - |
+| 25 | Worldend Syndrome | NS | - | - | - | - | - |
