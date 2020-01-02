@@ -25,3 +25,4 @@
 | 21 | The Witcher 3: Wild Hunt | PC | - | - | - | - | - |
 | 22 | Death Stranding | PS4 | 2019 | - | - | - | - |
 | 23 | AI: The Somnium Files | PC/PS4/NS | - | - | - | - | - |
+| 24 | Astral Chain | NS | - | - | - | - | - |
