@@ -22,10 +22,14 @@
 | Celeste | PC | - |
 | Cyberpunk 2077 | PC/PS4 | - |
 | Dragon Age: Inquisition | PC | - |
+| Final Fantasy VII Remake | PS4 | - |
+| Granblue Fantasy Versus | PS4 | Fighting Game, so can't really "complete" |
+| Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | Judgement | PS4 | - |
 | Persona 5 Royal | PS4 | - |
 | Pokemon: Sword | NS | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
+| Under Night In-Birth Exe:Late\[cl-r\] | PS4 | Fighting Game, so can't really "complete" |
 
 ### Normal Priority
 | Name  | Platform | Notes |
@@ -33,9 +37,11 @@
 | Heaven Will Be Mine | PC | - |
 | Pathfinder: Kingmaker | PC | - |
 | Pathologic 2 | PC | - |
+| Persona 5 Scramble | PS4/NS | - |
 | Yakuza 3 | PS4 | - |
 | Yakuza 4 | PS4 | - |
 | Yakuza 5 | PS4 | - |
+| Yakuza: Like a Dragon (Yakuza 7) | PS4 | - |
 
 ### Low Priority
 | Name  | Platform | Notes |
