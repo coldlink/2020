@@ -5,7 +5,6 @@
 | - | - | - | - |
 | Death Stranding | PS4 | 2019 |
 | Dragon Age II | PC | 2020-01-01 | - |
-| Fire Emblem: Three Houses (Azure Moon) | NS | 2019 | - |
 | Ladykiller in a Bind | PC | 2019 | - |
 | Yakuza Kiwami 2 | PS4 | 2019 | - |
 
@@ -40,6 +39,7 @@
 ### Low Priority
 | Name  | Platform | Notes |
 | - | - | - |
+| Fire Emblem: Three Houses (Azure Moon) | NS | Started 2019, On Hold |
 | Fire Emblem: Three Houses (Verdant Wind) | NS | - |
 | Fire Emblem: Three Houses (Silver Snow) | NS | - |
 | The Witcher | PC | - |
