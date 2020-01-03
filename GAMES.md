@@ -20,6 +20,7 @@
 | AI: The Somnium Files | PC/PS4/NS | - |
 | Astral Chain | NS | - |
 | Celeste | PC | - |
+| Cyberpunk 2077 | PC/PS4 | - |
 | Dragon Age: Inquisition | PC | - |
 | Judgement | PS4 | - |
 | Persona 5 Royal | PS4 | - |
