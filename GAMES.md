@@ -11,7 +11,7 @@
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
-| 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | - |
+| 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replaying |
 
 ## Backlog
 ### High Priority
@@ -49,7 +49,7 @@
 | Fire Emblem: Three Houses (Azure Moon) | NS | Started 2019, On Hold |
 | Fire Emblem: Three Houses (Verdant Wind) | NS | - |
 | Fire Emblem: Three Houses (Silver Snow) | NS | - |
-| The Witcher | PC | - |
-| The Witcher 2: Assassins of Kings | PC | - |
-| The Witcher 3: Wild Hunt | PC | - |
+| The Witcher | PC | Replaying |
+| The Witcher 2: Assassins of Kings | PC | Replaying |
+| The Witcher 3: Wild Hunt | PC | Replaying |
 | Worldend Syndrome | PS4 | - |
