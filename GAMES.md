@@ -11,7 +11,7 @@
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
-| 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replaying |
+| 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replay |
 
 ## Backlog
 ### High Priority
