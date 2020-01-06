@@ -49,7 +49,8 @@
 | Fire Emblem: Three Houses (Azure Moon) | NS | Started 2019, On Hold |
 | Fire Emblem: Three Houses (Verdant Wind) | NS | - |
 | Fire Emblem: Three Houses (Silver Snow) | NS | - |
-| The Witcher | PC | Replaying |
-| The Witcher 2: Assassins of Kings | PC | Replaying |
-| The Witcher 3: Wild Hunt | PC | Replaying |
+| NieR: Automata | PC | Replay |
+| The Witcher | PC | Replay |
+| The Witcher 2: Assassins of Kings | PC | Replay |
+| The Witcher 3: Wild Hunt | PC | Replay |
 | Worldend Syndrome | PS4 | - |
