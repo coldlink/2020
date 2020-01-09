@@ -4,7 +4,6 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Death Stranding | PS4 | 2019 |
-| Dragon Age II | PC | 2020-01-01 | - |
 | Ladykiller in a Bind | PC | 2019 | - |
 | Yakuza Kiwami 2 | PS4 | 2019 | - |
 
@@ -12,6 +11,7 @@
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
 | 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replay |
+| 2 | Dragon Age II | PC | 2020-01-01 | 2020-01-09 | 27:23:57 | + | - |
 
 ## Backlog
 ### High Priority
