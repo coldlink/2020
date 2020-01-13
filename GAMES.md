@@ -3,7 +3,8 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Death Stranding | PS4 | 2019 |
+| Death Stranding | PS4 | 2019 | - |
+| Dragon Age: Inquisition | PC | 2020-01-10 | - |
 | Ladykiller in a Bind | PC | 2019 | - |
 | Yakuza Kiwami 2 | PS4 | 2019 | - |
 
@@ -21,7 +22,6 @@
 | Astral Chain | NS | - |
 | Celeste | PC | - |
 | Cyberpunk 2077 | PC/PS4 | - |
-| Dragon Age: Inquisition | PC | - |
 | Final Fantasy VII Remake | PS4 | - |
 | Granblue Fantasy Versus | PS4 | Fighting Game, so can't really "complete" |
 | Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
