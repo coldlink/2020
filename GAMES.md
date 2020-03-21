@@ -3,16 +3,15 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Death Stranding | PS4 | 2019 | - |
-| Dragon Age: Inquisition | PC | 2020-01-10 | - |
-| Ladykiller in a Bind | PC | 2019 | - |
-| Yakuza Kiwami 2 | PS4 | 2019 | - |
+| Animal Crossing: New Horizon | NS | 2020-03-20 | - |
+| Granblue Fantasy Versus | PS4 | 2020-02 | Fighting Game, so can't really "complete" |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
 | 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replay |
 | 2 | Dragon Age II | PC | 2020-01-01 | 2020-01-09 | 27:23:57 | + | - |
+| 3 | Dragon Age: Inquisition | PC | 2020-01-10 | 2020-03-20 | 95:24:00 | + | - | 
 
 ## Backlog
 ### High Priority
@@ -22,22 +21,23 @@
 | Astral Chain | NS | - |
 | Celeste | PC | - |
 | Cyberpunk 2077 | PC/PS4 | - |
+| Death Stranding | PS4 | - |
 | Final Fantasy VII Remake | PS4 | - |
-| Granblue Fantasy Versus | PS4 | Fighting Game, so can't really "complete" |
 | Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | Judgement | PS4 | - |
 | Persona 5 Royal | PS4 | - |
 | Pokemon: Sword | NS | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
-| Under Night In-Birth Exe:Late\[cl-r\] | PS4 | Fighting Game, so can't really "complete" |
 
 ### Normal Priority
 | Name  | Platform | Notes |
 | - | - | - |
 | Heaven Will Be Mine | PC | - |
+| Ladykiller in a Bind | PC  | - |
 | Pathfinder: Kingmaker | PC | - |
 | Pathologic 2 | PC | - |
 | Persona 5 Scramble | PS4/NS | - |
+| Yakuza Kiwami 2 | PS4 | 2019 | - |
 | Yakuza 3 | PS4 | - |
 | Yakuza 4 | PS4 | - |
 | Yakuza 5 | PS4 | - |
