@@ -21,7 +21,7 @@
 | Astral Chain | NS | - |
 | Celeste | PC | - |
 | Cyberpunk 2077 | PC/PS4 | - |
-| Death Stranding | PS4 | - |
+| Death Stranding | PS4 | Started 2019, On Hold |
 | Final Fantasy VII Remake | PS4 | - |
 | Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | Judgement | PS4 | - |
@@ -33,11 +33,11 @@
 | Name  | Platform | Notes |
 | - | - | - |
 | Heaven Will Be Mine | PC | - |
-| Ladykiller in a Bind | PC  | - |
+| Ladykiller in a Bind | PC  | Started 2019, On Hold |
 | Pathfinder: Kingmaker | PC | - |
 | Pathologic 2 | PC | - |
 | Persona 5 Scramble | PS4/NS | - |
-| Yakuza Kiwami 2 | PS4 | 2019 | - |
+| Yakuza Kiwami 2 | PS4 | Started 2019, On Hold |
 | Yakuza 3 | PS4 | - |
 | Yakuza 4 | PS4 | - |
 | Yakuza 5 | PS4 | - |
