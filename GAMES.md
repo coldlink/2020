@@ -4,7 +4,6 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Animal Crossing: New Horizon | NS | 2020-03-20 | - |
-| Granblue Fantasy Versus | PS4 | 2020-02 | Fighting Game, so can't really "complete" |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -12,6 +11,8 @@
 | 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replay |
 | 2 | Dragon Age II | PC | 2020-01-01 | 2020-01-09 | 27:23:57 | + | - |
 | 3 | Dragon Age: Inquisition | PC | 2020-01-10 | 2020-03-20 | 95:24:00 | + | - | 
+| 4 | Celeste | PC |  2020-03-21 | 2020-03-27 | 07:46:09 | + | - |
+| 5 | Granblue Fantasy Versus | PS4 | 2020-02 | N/A | N/A | + | Fighting Game, so can't really "complete" |
 
 ## Backlog
 ### High Priority
@@ -19,7 +20,6 @@
 | - | - | - |
 | AI: The Somnium Files | PC/PS4/NS | - |
 | Astral Chain | NS | - |
-| Celeste | PC | - |
 | Cyberpunk 2077 | PC/PS4 | - |
 | Death Stranding | PS4 | Started 2019, On Hold |
 | Final Fantasy VII Remake | PS4 | - |
