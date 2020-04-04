@@ -3,7 +3,8 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Animal Crossing: New Horizon | NS | 2020-03-20 | - |
+| Halo: Reach | PC | 2020-04-04 | MCC, Normal Campaign |
+| Persona 5 Royal | PS4 | 2020-03-20 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -13,6 +14,7 @@
 | 3 | Dragon Age: Inquisition | PC | 2020-01-10 | 2020-03-20 | 95:24:00 | + | - | 
 | 4 | Celeste | PC |  2020-03-21 | 2020-03-27 | 07:46:09 | + | - |
 | 5 | Granblue Fantasy Versus | PS4 | 2020-02 | N/A | N/A | + | Fighting Game, so can't really "complete" |
+| 6 | Animal Crossing: New Horizon | NS | 2020-03-20 | N/A | N/A | + | Sim, can't really "complete" |
 
 ## Backlog
 ### High Priority
@@ -25,7 +27,6 @@
 | Final Fantasy VII Remake | PS4 | - |
 | Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | Judgement | PS4 | - |
-| Persona 5 Royal | PS4 | - |
 | Pokemon: Sword | NS | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
 
