@@ -3,8 +3,8 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
+| Deathtrap Dungeon: The Interactive Video Adventure | PC | 2020-05-01 | - |
 | Halo: Reach | PC | 2020-04-04 | MCC, Normal Campaign |
-| Persona 5 Royal | PS4 | 2020-03-20 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -15,6 +15,7 @@
 | 4 | Celeste | PC |  2020-03-21 | 2020-03-27 | 07:46:09 | + | - |
 | 5 | Granblue Fantasy Versus | PS4 | 2020-02 | N/A | N/A | + | Fighting Game, so can't really "complete" |
 | 6 | Animal Crossing: New Horizon | NS | 2020-03-20 | N/A | N/A | + | Sim, can't really "complete" |
+| 7 | Persona 5 Royal | PS4 | 2020-03-20 | 2020-05-09 | 126:41:00 | + | - |
 
 ## Backlog
 ### High Priority
