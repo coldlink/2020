@@ -23,22 +23,22 @@
 | - | - | - |
 | Astral Chain | NS | - |
 | Cyberpunk 2077 | PC/PS4 | - |
-| Death Stranding | PS4 | Started 2019, On Hold |
 | Final Fantasy VII Remake | PS4 | - |
-| Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | Judgement | PS4 | - |
 | Pokemon: Sword | NS | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
+| Yakuza Kiwami 2 | PS4 | Started 2019, On Hold |
 
 ### Normal Priority
 | Name  | Platform | Notes |
 | - | - | - |
+| Death Stranding | PS4 | Started 2019, On Hold |
+| Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | Heaven Will Be Mine | PC | - |
 | Ladykiller in a Bind | PC  | Started 2019, On Hold |
 | Pathfinder: Kingmaker | PC | - |
 | Pathologic 2 | PC | - |
 | Persona 5 Scramble | PS4/NS | - |
-| Yakuza Kiwami 2 | PS4 | Started 2019, On Hold |
 | Yakuza 3 | PS4 | - |
 | Yakuza 4 | PS4 | - |
 | Yakuza 5 | PS4 | - |
@@ -47,11 +47,5 @@
 ### Low Priority
 | Name  | Platform | Notes |
 | - | - | - |
-| Fire Emblem: Three Houses (Azure Moon) | NS | Started 2019, On Hold |
-| Fire Emblem: Three Houses (Verdant Wind) | NS | - |
-| Fire Emblem: Three Houses (Silver Snow) | NS | - |
 | NieR: Automata | PC | Replay |
-| The Witcher | PC | Replay |
-| The Witcher 2: Assassins of Kings | PC | Replay |
-| The Witcher 3: Wild Hunt | PC | Replay |
 | Worldend Syndrome | PS4 | - |
