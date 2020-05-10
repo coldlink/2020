@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Halo: Reach | PC | 2020-04-04 | MCC, Normal Campaign |
+| AI: The Somnium Files | PS4 | 2020-05-10 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -21,7 +21,6 @@
 ### High Priority
 | Name  | Platform | Notes |
 | - | - | - |
-| AI: The Somnium Files | PC/PS4/NS | - |
 | Astral Chain | NS | - |
 | Cyberpunk 2077 | PC/PS4 | - |
 | Death Stranding | PS4 | Started 2019, On Hold |
