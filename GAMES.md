@@ -22,30 +22,28 @@
 | Name  | Platform | Notes |
 | - | - | - |
 | Astral Chain | NS | - |
-| Cyberpunk 2077 | PC/PS4 | - |
 | Final Fantasy VII Remake | PS4 | - |
 | Judgement | PS4 | - |
-| Pokemon: Sword | NS | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
+| Worldend Syndrome | PS4 | - |
 | Yakuza Kiwami 2 | PS4 | Started 2019, On Hold |
 
 ### Normal Priority
 | Name  | Platform | Notes |
 | - | - | - |
-| Death Stranding | PS4 | Started 2019, On Hold |
-| Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
+| Cyberpunk 2077 | PC/PS4 | - |
 | Heaven Will Be Mine | PC | - |
-| Ladykiller in a Bind | PC  | Started 2019, On Hold |
-| Pathfinder: Kingmaker | PC | - |
 | Pathologic 2 | PC | - |
-| Persona 5 Scramble | PS4/NS | - |
+| Pokemon: Sword | NS | - |
 | Yakuza 3 | PS4 | - |
 | Yakuza 4 | PS4 | - |
 | Yakuza 5 | PS4 | - |
-| Yakuza: Like a Dragon (Yakuza 7) | PS4 | - |
 
 ### Low Priority
 | Name  | Platform | Notes |
 | - | - | - |
+| Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
+| Ladykiller in a Bind | PC  | Started 2019, On Hold |
 | NieR: Automata | PC | Replay |
-| Worldend Syndrome | PS4 | - |
+| Pathfinder: Kingmaker | PC | - |
+| Death Stranding | PS4 | Started 2019, On Hold |
