@@ -3,20 +3,21 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
+| ESC | PC | 2020-06-23 | - |
 
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
 | - | - | - | - | - | - | - | - |
-| 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | + | Replay |
-| 2 | Dragon Age II | PC | 2020-01-01 | 2020-01-09 | 27:23:57 | + | - |
+| 1 | Dragon Age Origins: Awakening | PC | 2019 | 2020-01-01 | 12:00:00 | ~ | Replay |
+| 2 | Dragon Age II | PC | 2020-01-01 | 2020-01-09 | 27:23:57 | ~ | - |
 | 3 | Dragon Age: Inquisition | PC | 2020-01-10 | 2020-03-20 | 95:24:00 | + | - | 
 | 4 | Celeste | PC |  2020-03-21 | 2020-03-27 | 07:46:09 | + | - |
 | 5 | Granblue Fantasy Versus | PS4 | 2020-02 | N/A | N/A | + | Fighting Game, so can't really "complete" |
 | 6 | Animal Crossing: New Horizon | NS | 2020-03-20 | N/A | N/A | + | Sim, can't really "complete" |
 | 7 | Persona 5 Royal | PS4 | 2020-03-20 | 2020-05-09 | 126:41:00 | + | - |
 | 8 | Deathtrap Dungeon: The Interactive Video Adventure | PC | 2020-05-01 | 2020-05-09 | 03:06:00 | + | Single Route Clear |
-| 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | + | - |
+| 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | ~ | - |
 
 ## Backlog
 ### High Priority
