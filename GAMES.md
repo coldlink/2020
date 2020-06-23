@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| AI: The Somnium Files | PS4 | 2020-05-10 | - |
+
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -16,6 +16,7 @@
 | 6 | Animal Crossing: New Horizon | NS | 2020-03-20 | N/A | N/A | + | Sim, can't really "complete" |
 | 7 | Persona 5 Royal | PS4 | 2020-03-20 | 2020-05-09 | 126:41:00 | + | - |
 | 8 | Deathtrap Dungeon: The Interactive Video Adventure | PC | 2020-05-01 | 2020-05-09 | 03:06:00 | + | Single Route Clear |
+| 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | + | - |
 
 ## Backlog
 ### High Priority
