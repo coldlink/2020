@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| ESC | PC | 2020-06-23 | - |
 
 
 ## Completed
@@ -18,17 +17,21 @@
 | 7 | Persona 5 Royal | PS4 | 2020-03-20 | 2020-05-09 | 126:41:00 | + | - |
 | 8 | Deathtrap Dungeon: The Interactive Video Adventure | PC | 2020-05-01 | 2020-05-09 | 03:06:00 | + | Single Route Clear |
 | 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | ~ | - |
+| 10 | ESC | PC | 2020-06-23 | 2020-06-26 | 03:00:00 | ~ | - |
 
 ## Backlog
 ### High Priority
 | Name  | Platform | Notes |
 | - | - | - |
 | Astral Chain | NS | - |
+| Baba Is You | PC | - |
+| Black Mesa | PC | - |
 | Final Fantasy VII Remake | PS4 | - |
 | Judgement | PS4 | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
 | Worldend Syndrome | PS4 | - |
 | Yakuza Kiwami 2 | PS4 | Started 2019, On Hold |
+| Yuppie Psycho | PC | - |
 
 ### Normal Priority
 | Name  | Platform | Notes |
@@ -45,7 +48,6 @@
 | Name  | Platform | Notes |
 | - | - | - |
 | Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
-| Ladykiller in a Bind | PC  | Started 2019, On Hold |
 | NieR: Automata | PC | Replay |
 | Pathfinder: Kingmaker | PC | - |
 | Death Stranding | PS4 | Started 2019, On Hold |
