@@ -21,18 +21,18 @@
 
 ## Backlog
 ### High Priority
-| Name  | Platform | Notes |
-| - | - | - |
-| Astral Chain | NS | - |
-| Baba Is You | PC | - |
-| Black Mesa | PC | - |
-| Final Fantasy VII Remake | PS4 | - |
-| Horizon: Zero Dawn | PS4 | - |
-| Judgement | PS4 | - |
-| Tokyo Mirage Sessions ♯FE Encore | NS | - |
-| Worldend Syndrome | PS4 | - |
-| Yakuza Kiwami 2 | PS4 | Started 2019, On Hold |
-| Yuppie Psycho | PC | - |
+| Name  | Platform | Notes | Est. |
+| - | - | - | - |
+| Astral Chain | NS | - | 28:00:00 |
+| Baba Is You | PC | - | 20:00:00 |
+| Black Mesa | PC | - | 16:00:00 |
+| Final Fantasy VII Remake | PS4 | - | 42:00:00 |
+| Horizon: Zero Dawn | PS4 | - | 60:00:00 |
+| Judgment | PS4 | - | 45:00:00 |
+| Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 |
+| World End Syndrome | PS4 | - | 22:00:00 |
+| Yakuza Kiwami 2 | PS4 | Started 2019, On Hold | 35:00:00 |
+| Yuppie Psycho | PC | - | 10:00:00 |
 
 ### Normal Priority
 | Name  | Platform | Notes |
