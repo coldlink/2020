@@ -27,6 +27,7 @@
 | Baba Is You | PC | - |
 | Black Mesa | PC | - |
 | Final Fantasy VII Remake | PS4 | - |
+| Horizon: Zero Dawn | PS4 | - |
 | Judgement | PS4 | - |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - |
 | Worldend Syndrome | PS4 | - |
