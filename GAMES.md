@@ -18,6 +18,7 @@
 | 8 | Deathtrap Dungeon: The Interactive Video Adventure | PC | 2020-05-01 | 2020-05-09 | 03:06:00 | + | Single Route Clear |
 | 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | ~ | - |
 | 10 | ESC | PC | 2020-06-23 | 2020-06-26 | 03:00:00 | ~ | - |
+| 11 | Helltaker | PC | 2020-06-29 | 2020-06-29 | 01:14:00 | + | Demon Girls <3 |
 
 ## Backlog
 ### High Priority
