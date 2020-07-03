@@ -4,6 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Astral Chain | NS | 2020-06-27 | - |
+| The Gardens Between | PC | 2020-07-03 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
