@@ -4,7 +4,6 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Astral Chain | NS | 2020-06-27 | - |
-| The Gardens Between | PC | 2020-07-03 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -20,6 +19,7 @@
 | 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | ~ | - |
 | 10 | ESC | PC | 2020-06-23 | 2020-06-26 | 03:00:00 | ~ | - |
 | 11 | Helltaker | PC | 2020-06-29 | 2020-06-29 | 01:14:00 | + | Demon Girls <3 |
+| 12 | The Gardens Between | PC | 2020-07-02 | 2020-07-04 | 02:36:00 | + | - |
 
 ## Backlog
 ### High Priority
