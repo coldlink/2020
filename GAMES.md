@@ -4,7 +4,6 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Astral Chain | NS | 2020-06-27 | - |
-| Necrobarista | PC | 2020-07-03 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -22,6 +21,7 @@
 | 11 | Helltaker | PC | 2020-06-29 | 2020-06-29 | 01:14:00 | + | Demon Girls <3 |
 | 12 | The Gardens Between | PC | 2020-07-02 | 2020-07-04 | 02:36:00 | + | - |
 | 13 | Black Mesa | PC | 2020-07-30 | 2020-08-08 | 14:00:00 | + | - |
+| 14 | Necrobarista | PC | 2020-07-23 | 2020-08-09 | 06:00:00 | + | - |
 
 ## Backlog
 ### High Priority
