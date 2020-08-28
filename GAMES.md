@@ -22,6 +22,7 @@
 | 12 | The Gardens Between | PC | 2020-07-02 | 2020-07-04 | 02:36:00 | + | - |
 | 13 | Black Mesa | PC | 2020-07-30 | 2020-08-08 | 14:00:00 | + | - |
 | 14 | Necrobarista | PC | 2020-07-23 | 2020-08-09 | 06:00:00 | + | - |
+| 15 | Half Life 2 | PC | 2020-08-10 | 2020-08-28 | N/A | + | Replay | 
 
 ## Backlog
 ### High Priority
