@@ -26,6 +26,7 @@
 | 16 | Half Life 2: Episode One | PC | 2020-08-28 | 2020-08-30 | 04:30:00 | + | Replay |
 | 17 | Half Life 2: Episode Two | PC | 2020-08-30 | 2020-09-03 | 04:00:00 | + | Replay |
 | 18 | Portal | PC | 2020-09-04 | 2020-09-06 | N/A | + | Replay |
+| 19 | Portal 2 | PC | 2020-09-07 | 2020-09-12 | 05:00:00 | + | Replay, Single Player Mode |
 
 ## Backlog
 ### High Priority
