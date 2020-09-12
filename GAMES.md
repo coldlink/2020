@@ -32,6 +32,7 @@
 ### High Priority
 | Name  | Platform | Notes | Est. |
 | - | - | - | - |
+| 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 |
 | Baba Is You | PC | - | 20:00:00 |
 | Black Mesa | PC | - | 16:00:00 |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 |
