@@ -27,7 +27,8 @@
 | 17 | Half Life 2: Episode Two | PC | 2020-08-30 | 2020-09-03 | 04:00:00 | + | Replay |
 | 18 | Portal | PC | 2020-09-04 | 2020-09-06 | N/A | + | Replay |
 | 19 | Portal 2 | PC | 2020-09-07 | 2020-09-12 | 05:00:00 | + | Replay, Single Player Mode |
-| 20 | Half Life: Blue Shift | PC | 2020-09-13 | 2020-09-13 | 02:36:00 | + | Replay |
+| 20 | Half Life: Blue Shift | PC | 2020-09-13 | 2020-09-13 | 02:36:00 | ~ | Replay |
+| 21 | Half Life: Blue Shift | PC | 2020-09-14 | 2020-09-16 | 04:18:00 | ~ | Replay |
 
 ## Backlog
 ### High Priority
