@@ -4,6 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Astral Chain | NS | 2020-06-27 | - |
+| Baba Is You | PC | 2020-09-23 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -35,7 +36,6 @@
 | Name  | Platform | Notes | Est. |
 | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 |
-| Baba Is You | PC | - | 20:00:00 |
 | Black Mesa | PC | - | 16:00:00 |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 |
 | Horizon: Zero Dawn | PS4 | - | 60:00:00 |
