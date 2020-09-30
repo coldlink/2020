@@ -4,7 +4,6 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Astral Chain | NS | 2020-06-27 | - |
-| Baba Is You | PC | 2020-09-23 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -41,6 +40,7 @@
 | Horizon: Zero Dawn | PS4 | - | 60:00:00 |
 | Judgment | PS4 | - | 45:00:00 |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 |
+| Untitled Goose Game | PC | - | 04:00:00 |
 | World End Syndrome | PS4 | - | 22:00:00 |
 | Yakuza Kiwami 2 | PS4 | Started 2019, On Hold | 35:00:00 |
 | Yuppie Psycho | PC | - | 10:00:00 |
