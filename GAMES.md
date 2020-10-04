@@ -37,7 +37,6 @@
 | Name  | Platform | Notes | Est. |
 | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 |
-| Black Mesa | PC | - | 16:00:00 |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 |
 | Horizon: Zero Dawn | PS4 | - | 60:00:00 |
 | Judgment | PS4 | - | 45:00:00 |
