@@ -30,7 +30,7 @@
 | 20 | Half Life: Blue Shift | PC | 2020-09-13 | 2020-09-13 | 02:36:00 | ~ | Replay |
 | 21 | Half Life: Blue Shift | PC | 2020-09-14 | 2020-09-16 | 04:18:00 | ~ | Replay |
 | 22 | Astral Chain | NS | 2020-06-27 | 2020-10-04 | 25:16:57 | + | - |
-
+| 23 | Superliminal | PC | 2020-10-04 | 2020-10-04 | 02:20:02 | + | 🤯 |
 
 ## Backlog
 ### High Priority
@@ -40,7 +40,6 @@
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 |
 | Horizon: Zero Dawn | PS4 | - | 60:00:00 |
 | Judgment | PS4 | - | 45:00:00 |
-| Superliminal | PC | - | 03:00:00 |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 |
 | Untitled Goose Game | PC | - | 04:00:00 |
 | World End Syndrome | PS4 | - | 22:00:00 |
