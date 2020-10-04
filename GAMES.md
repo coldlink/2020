@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Astral Chain | NS | 2020-06-27 | - |
+| Yakuza Kiwami 2 | PS4 | 2019 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -29,6 +29,8 @@
 | 19 | Portal 2 | PC | 2020-09-07 | 2020-09-12 | 05:00:00 | + | Replay, Single Player Mode |
 | 20 | Half Life: Blue Shift | PC | 2020-09-13 | 2020-09-13 | 02:36:00 | ~ | Replay |
 | 21 | Half Life: Blue Shift | PC | 2020-09-14 | 2020-09-16 | 04:18:00 | ~ | Replay |
+| 22 | Astral Chain | NS | 2020-06-27 | 2020-10-04 | 25:16:57 | + | - |
+
 
 ## Backlog
 ### High Priority
@@ -43,7 +45,6 @@
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 |
 | Untitled Goose Game | PC | - | 04:00:00 |
 | World End Syndrome | PS4 | - | 22:00:00 |
-| Yakuza Kiwami 2 | PS4 | Started 2019, On Hold | 35:00:00 |
 | Yuppie Psycho | PC | - | 10:00:00 |
 
 ### Normal Priority
