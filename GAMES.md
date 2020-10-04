@@ -18,7 +18,7 @@
 | 8 | Deathtrap Dungeon: The Interactive Video Adventure | PC | 2020-05-01 | 2020-05-09 | 03:06:00 | + | Single Route Clear |
 | 9 | AI: The Somnium Files | PS4 | 2020-05-10 | 2020-06-23 | 31:35:43 | ~ | - |
 | 10 | ESC | PC | 2020-06-23 | 2020-06-26 | 03:00:00 | ~ | - |
-| 11 | Helltaker | PC | 2020-06-29 | 2020-06-29 | 01:14:00 | + | Demon Girls <3 |
+| 11 | Helltaker | PC | 2020-06-29 | 2020-06-29 | 01:14:00 | + | Demon Girls  |
 | 12 | The Gardens Between | PC | 2020-07-02 | 2020-07-04 | 02:36:00 | + | - |
 | 13 | Black Mesa | PC | 2020-07-30 | 2020-08-08 | 14:00:00 | + | - |
 | 14 | Necrobarista | PC | 2020-07-23 | 2020-08-09 | 06:00:00 | + | - |
@@ -61,5 +61,3 @@
 | - | - | - |
 | Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
 | NieR: Automata | PC | Replay |
-| Pathfinder: Kingmaker | PC | - |
-| Death Stranding | PS4 | Started 2019, On Hold |
