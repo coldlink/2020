@@ -4,6 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Yakuza Kiwami 2 | PS4 | 2019 | - |
+| Baldur's Gate III | PC | 2020-10-07 | Early Access |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
