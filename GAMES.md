@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Yakuza Kiwami 2 | PS4 | 2019 | - |
 | Baldur's Gate III | PC | 2020-10-07 | Early Access |
 
 ## Completed
@@ -32,6 +31,8 @@
 | 21 | Half Life: Opposing Force | PC | 2020-09-14 | 2020-09-16 | 04:18:00 | ~ | Replay |
 | 22 | Astral Chain | NS | 2020-06-27 | 2020-10-04 | 25:16:57 | + | - |
 | 23 | Superliminal | PC | 2020-10-04 | 2020-10-04 | 02:20:02 | + | 🤯 |
+| 24 | Yakuza Kiwami 2 | PS4 | 2019 | 2020-10-16 | 26:39:10 | + | Main story |
+
 
 ## Backlog
 ### High Priority
