@@ -36,30 +36,30 @@
 
 ## Backlog
 ### High Priority
-| Name  | Platform | Notes | Est. |
-| - | - | - | - |
-| 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 |
-| Final Fantasy VII Remake | PS4 | - | 42:00:00 |
-| Horizon: Zero Dawn | PS4 | - | 60:00:00 |
-| Judgment | PS4 | - | 45:00:00 |
-| Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 |
-| Untitled Goose Game | PC | - | 04:00:00 |
-| World End Syndrome | PS4 | - | 22:00:00 |
-| Yuppie Psycho | PC | - | 10:00:00 |
+| Name  | Platform | Notes | Est. | Owned |
+| - | - | - | - | - |
+| 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 | FALSE |
+| Final Fantasy VII Remake | PS4 | - | 42:00:00 | FALSE |
+| Horizon: Zero Dawn | PS4 | - | 60:00:00 | TRUE |
+| Judgment | PS4 | - | 45:00:00 | TRUE |
+| Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 | FALSE |
+| Untitled Goose Game | PC | - | 04:00:00 | FALSE |
+| Yuppie Psycho | PC | - | 10:00:00 | TRUE |
 
 ### Normal Priority
-| Name  | Platform | Notes |
-| - | - | - |
-| Cyberpunk 2077 | PC/PS4 | - |
-| Heaven Will Be Mine | PC | - |
-| Pathologic 2 | PC | - |
-| Pokemon: Sword | NS | - |
-| Yakuza 3 | PS4 | - |
-| Yakuza 4 | PS4 | - |
-| Yakuza 5 | PS4 | - |
+| Name  | Platform | Notes | Owned |
+| - | - | - | - |
+| Cyberpunk 2077 | PC/PS4 | - | FALSE |
+| Heaven Will Be Mine | PC | - | TRUE |
+| Pathologic 2 | PC | - | TRUE |
+| Pokemon: Sword | NS | - | FALSE |
+| Yakuza 3 | PS4 | - | TRUE |
+| Yakuza 4 | PS4 | - | TRUE |
+| Yakuza 5 | PS4 | - | TRUE |
+| World End Syndrome | PS4 | - | TRUE |
 
 ### Low Priority
-| Name  | Platform | Notes |
-| - | - | - |
-| Half-Life: Alyx | PC | Note to self: Spend £££ on VR |
-| NieR: Automata | PC | Replay |
+| Name  | Platform | Notes | Owned |
+| - | - | - | - |
+| Half-Life: Alyx | PC | Note to self: Spend £££ on VR | FALSE |
+| NieR: Automata | PC | Replay | TRUE |
