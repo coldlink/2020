@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Yakuza Kiwami 2: Majima Saga | PS4 | 2020-10-17 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -33,6 +32,7 @@
 | 23 | Superliminal | PC | 2020-10-04 | 2020-10-04 | 02:20:02 | + | 🤯 |
 | 24 | Yakuza Kiwami 2 | PS4 | 2019 | 2020-10-16 | 26:39:10 | + | Main story |
 | 25 | Baldur's Gate III | PC | 2020-10-07 | 2020-10-18 | 27:53:00 | + | Early Access: Act I |
+| 26 | Yakuza Kiwami 2: Majima Saga | PS4 | 2020-10-17 | 2020-10-18 | 02:00:00 | + | - |
 
 ## Backlog
 ### High Priority
