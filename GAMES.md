@@ -3,6 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
+| Horizon: Zero Dawn | PS4 | 2020-10-20 | Complete Edition |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -40,7 +41,6 @@
 | - | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 | FALSE |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 | FALSE |
-| Horizon: Zero Dawn | PS4 | - | 60:00:00 | TRUE |
 | Judgment | PS4 | - | 45:00:00 | TRUE |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 | FALSE |
 | Untitled Goose Game | PC | - | 04:00:00 | FALSE |
