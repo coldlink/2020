@@ -4,6 +4,7 @@
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
 | Horizon: Zero Dawn | PS4 | 2020-10-20 | Complete Edition |
+| Control | PC | 2020-11-08 | Ultimate Edition |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
