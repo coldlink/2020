@@ -41,7 +41,6 @@
 | Name  | Platform | Notes | Est. | Owned |
 | - | - | - | - | - |
 | 13 Sentinels: Aegis Rim | PS4 | - | 33:00:00 | FALSE |
-| Control | PC | Ultimate Edition | 28:30:00 | TRUE |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 | FALSE |
 | Judgment | PS4 | - | 45:00:00 | TRUE |
 | Raji: An Ancient Epic | PC | - | 05:00:00 | TRUE |
