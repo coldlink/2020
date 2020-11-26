@@ -44,8 +44,9 @@
 | Control | PC | Ultimate Edition | 28:30:00 | TRUE |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 | FALSE |
 | Judgment | PS4 | - | 45:00:00 | TRUE |
+| Raji: An Ancient Epic | PC | - | 05:00:00 | TRUE |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 | FALSE |
-| Untitled Goose Game | PC | - | 04:00:00 | FALSE |
+| Untitled Goose Game | PC | - | 04:00:00 | TRUE |
 | Yuppie Psycho | PC | - | 10:00:00 | TRUE |
 
 ### Normal Priority
