@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Ring Fit Adventure | NS | 2020-06-11 | - |
 | Horizon: Zero Dawn | PS4 | 2020-10-20 | Complete Edition |
 | Control | PC | 2020-11-08 | Ultimate Edition |
 
@@ -37,6 +36,7 @@
 | 25 | Baldur's Gate III | PC | 2020-10-07 | 2020-10-18 | 27:53:00 | + | Early Access: Act I |
 | 26 | Yakuza Kiwami 2: Majima Saga | PS4 | 2020-10-17 | 2020-10-18 | 02:00:00 | + | - |
 | 27 | Wingspan | PC |  2020-11-26 | N/A | N/A | + | - |
+| 28 | Ring Fit Adventure | NS | 2020-06-11 | 2020-12-11 | 37:41:37 | + | All worlds any%, Time is exercise time |
 
 ## Backlog
 ### High Priority
