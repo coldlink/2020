@@ -3,7 +3,7 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-
+| Raji: An Ancient Epic | PC | 2020-12-13 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -46,7 +46,6 @@
 | Control: Ultimate Edition | PC | - | 28:30:00 | TRUE |
 | Final Fantasy VII Remake | PS4 | - | 42:00:00 | FALSE |
 | Judgment | PS4 | - | 45:00:00 | TRUE |
-| Raji: An Ancient Epic | PC | - | 05:00:00 | TRUE |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 | FALSE |
 | Untitled Goose Game | PC | - | 04:00:00 | TRUE |
 
