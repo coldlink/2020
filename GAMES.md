@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Horizon: Zero Dawn | PS4 | 2020-10-20 | Complete Edition |
 | Control | PC | 2020-11-08 | Ultimate Edition |
 
 ## Completed
@@ -37,6 +36,7 @@
 | 26 | Yakuza Kiwami 2: Majima Saga | PS4 | 2020-10-17 | 2020-10-18 | 02:00:00 | + | - |
 | 27 | Wingspan | PC |  2020-11-26 | N/A | N/A | + | - |
 | 28 | Ring Fit Adventure | NS | 2020-06-11 | 2020-12-11 | 37:41:37 | + | All worlds any%, Time is exercise time |
+| 29 | Horizon: Zero Dawn | PS4 | 2020-10-20 | 2020-12-13 | 50:28:00 | + | Complete Edition |
 
 ## Backlog
 ### High Priority
@@ -48,7 +48,6 @@
 | Raji: An Ancient Epic | PC | - | 05:00:00 | TRUE |
 | Tokyo Mirage Sessions ♯FE Encore | NS | - | 48:00:00 | FALSE |
 | Untitled Goose Game | PC | - | 04:00:00 | TRUE |
-| Yuppie Psycho | PC | - | 10:00:00 | TRUE |
 
 ### Normal Priority
 | Name  | Platform | Notes | Owned |
@@ -57,10 +56,11 @@
 | Heaven Will Be Mine | PC | - | TRUE |
 | Pathologic 2 | PC | - | TRUE |
 | Pokemon: Sword | NS | - | FALSE |
+| World End Syndrome | PS4 | - | TRUE |
 | Yakuza 3 | PS4 | - | TRUE |
 | Yakuza 4 | PS4 | - | TRUE |
 | Yakuza 5 | PS4 | - | TRUE |
-| World End Syndrome | PS4 | - | TRUE |
+| Yuppie Psycho | PC | - | TRUE |
 
 ### Low Priority
 | Name  | Platform | Notes | Owned |
