@@ -3,7 +3,6 @@
 ## Playing
 | Name  | Platform | Start | Notes |
 | - | - | - | - |
-| Raji: An Ancient Epic | PC | 2020-12-13 | - |
 
 ## Completed
 | Count | Name  | Platform | Start | Complete | Time | Rating | Notes |
@@ -37,6 +36,7 @@
 | 26 | Wingspan | PC |  2020-11-26 | N/A | N/A | + | - |
 | 27 | Ring Fit Adventure | NS | 2020-06-11 | 2020-12-11 | 37:41:37 | + | All worlds any%, Time is exercise time |
 | 28 | Horizon: Zero Dawn | PS4 | 2020-10-20 | 2020-12-13 | 50:28:00 | + | Complete Edition |
+| 29 | Raji: An Ancient Epic | PC | 2020-12-13 | 2020-12-27 | 04:48:00 | + | - |
 
 ## Backlog
 ### High Priority
